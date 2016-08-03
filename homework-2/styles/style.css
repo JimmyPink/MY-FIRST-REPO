@@ -1,0 +1,44 @@
+
+
+@media (max-width:900px){
+	
+	p{
+		font-size:200px;
+	}
+}
+
+p{
+	font-size:100px;
+
+}
+.fixed_photo{
+	position:fixed;
+	top:0px;
+	right:30px;
+	max-width:500;
+	max-height:auto;
+}
+
+.absolute_photo{
+	position:absolute;
+	top:0px;
+	left:30px;
+	z-index:1000;
+}
+
+
+.intro_text{
+	color:#ff2343;
+	font-size:100px;
+}
+
+h1.intro_text{
+	color:orange;
+	font-size:60px;
+}
+
+#footer_info{
+	background-color:#ff2f43;
+	width:100px;
+	height:100px;
+}
